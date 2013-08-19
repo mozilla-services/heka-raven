@@ -1,7 +1,11 @@
-0.5
+0.6 - 2013-08-19
+================
+- Bumped dependency to use the heka-py 0.30.1 to enforce the hekad 0.3 protocol
+
+
+0.5 - 2013-03-12
 ==================
 - First official release compatible with heka-py
-
 
 0.3
 ==================
